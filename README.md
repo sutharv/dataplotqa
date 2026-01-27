@@ -293,5 +293,3 @@ This project builds on research in:
 - Intelligent tutoring systems
 - Graph literacy research
 - Explainable AI
-
-Special thanks to the authors of the foundational works cited in the paper.
