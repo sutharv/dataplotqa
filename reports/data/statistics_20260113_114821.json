@@ -1,0 +1,157 @@
+{
+  "ai_metrics": {
+    "clarity": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "helpfulness": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "accuracy": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    }
+  },
+  "human_metrics": {
+    "clarity": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "helpfulness": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "accuracy": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    }
+  },
+  "comparative_metrics": {
+    "clarity": {
+      "t_statistic": NaN,
+      "p_value": NaN,
+      "significant": false,
+      "cohen_d": NaN,
+      "effect_size": "large",
+      "win_rate": 1.0,
+      "ai_better": false
+    },
+    "helpfulness": {
+      "t_statistic": NaN,
+      "p_value": NaN,
+      "significant": false,
+      "cohen_d": NaN,
+      "effect_size": "large",
+      "win_rate": 1.0,
+      "ai_better": false
+    },
+    "accuracy": {
+      "t_statistic": NaN,
+      "p_value": NaN,
+      "significant": false,
+      "cohen_d": NaN,
+      "effect_size": "large",
+      "win_rate": 1.0,
+      "ai_better": false
+    }
+  },
+  "category_analysis": {
+    "general": {
+      "n_samples": 28,
+      "ai_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      },
+      "human_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      }
+    },
+    "visualization_purpose": {
+      "n_samples": 2,
+      "ai_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      },
+      "human_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      }
+    },
+    "trend_identification": {
+      "n_samples": 2,
+      "ai_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      },
+      "human_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      }
+    },
+    "research_conclusions": {
+      "n_samples": 3,
+      "ai_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      },
+      "human_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      }
+    },
+    "axis_interpretation": {
+      "n_samples": 1,
+      "ai_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      },
+      "human_mean": {
+        "clarity": 0.0,
+        "helpfulness": 0.0,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "timestamp": "2026-01-13T11:48:17.972624"
+}

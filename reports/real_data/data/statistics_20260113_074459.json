@@ -1,0 +1,157 @@
+{
+  "ai_metrics": {
+    "clarity": {
+      "mean": 4.088888888888888,
+      "median": 4.1,
+      "std": 0.5214144377297352,
+      "min": 3.1,
+      "max": 5.0,
+      "q25": 3.775,
+      "q75": 4.425000000000001
+    },
+    "helpfulness": {
+      "mean": 4.058333333333334,
+      "median": 4.1,
+      "std": 0.611496992166414,
+      "min": 2.7,
+      "max": 5.0,
+      "q25": 3.6,
+      "q75": 4.525
+    },
+    "accuracy": {
+      "mean": 3.9444444444444446,
+      "median": 3.95,
+      "std": 0.4582229304260688,
+      "min": 2.7,
+      "max": 4.9,
+      "q25": 3.7,
+      "q75": 4.2
+    }
+  },
+  "human_metrics": {
+    "clarity": {
+      "mean": 3.75,
+      "median": 3.8,
+      "std": 0.7669978580711385,
+      "min": 2.3,
+      "max": 5.0,
+      "q25": 3.1,
+      "q75": 4.325
+    },
+    "helpfulness": {
+      "mean": 3.836111111111111,
+      "median": 3.95,
+      "std": 0.7349063216405894,
+      "min": 2.5,
+      "max": 5.0,
+      "q25": 3.1,
+      "q75": 4.4
+    },
+    "accuracy": {
+      "mean": 3.672222222222222,
+      "median": 3.9,
+      "std": 0.5950323453926619,
+      "min": 2.5,
+      "max": 5.0,
+      "q25": 3.2249999999999996,
+      "q75": 4.025
+    }
+  },
+  "comparative_metrics": {
+    "clarity": {
+      "t_statistic": 2.06649946559769,
+      "p_value": 0.04624275293741471,
+      "significant": true,
+      "cohen_d": 0.34441657759961497,
+      "effect_size": "small",
+      "win_rate": 0.6666666666666666,
+      "ai_better": true
+    },
+    "helpfulness": {
+      "t_statistic": 1.5794474705377721,
+      "p_value": 0.12322984172369743,
+      "significant": false,
+      "cohen_d": 0.26324124508962865,
+      "effect_size": "small",
+      "win_rate": 0.6666666666666666,
+      "ai_better": true
+    },
+    "accuracy": {
+      "t_statistic": 2.002181227200814,
+      "p_value": 0.05306176984375047,
+      "significant": false,
+      "cohen_d": 0.33369687120013564,
+      "effect_size": "small",
+      "win_rate": 0.5833333333333334,
+      "ai_better": true
+    }
+  },
+  "category_analysis": {
+    "general": {
+      "n_samples": 28,
+      "ai_mean": {
+        "clarity": 4.007142857142857,
+        "helpfulness": 4.010714285714286,
+        "accuracy": 3.9
+      },
+      "human_mean": {
+        "clarity": 3.7821428571428575,
+        "helpfulness": 3.8714285714285714,
+        "accuracy": 3.6892857142857136
+      }
+    },
+    "visualization_purpose": {
+      "n_samples": 2,
+      "ai_mean": {
+        "clarity": 4.45,
+        "helpfulness": 4.0,
+        "accuracy": 4.25
+      },
+      "human_mean": {
+        "clarity": 3.4,
+        "helpfulness": 3.0,
+        "accuracy": 3.25
+      }
+    },
+    "trend_identification": {
+      "n_samples": 2,
+      "ai_mean": {
+        "clarity": 5.0,
+        "helpfulness": 4.4,
+        "accuracy": 3.8
+      },
+      "human_mean": {
+        "clarity": 3.2,
+        "helpfulness": 4.15,
+        "accuracy": 4.15
+      }
+    },
+    "research_conclusions": {
+      "n_samples": 3,
+      "ai_mean": {
+        "clarity": 4.133333333333333,
+        "helpfulness": 4.066666666666666,
+        "accuracy": 4.233333333333333
+      },
+      "human_mean": {
+        "clarity": 4.3,
+        "helpfulness": 3.5666666666666664,
+        "accuracy": 3.5
+      }
+    },
+    "axis_interpretation": {
+      "n_samples": 1,
+      "ai_mean": {
+        "clarity": 3.7,
+        "helpfulness": 4.8,
+        "accuracy": 4.0
+      },
+      "human_mean": {
+        "clarity": 3.0,
+        "helpfulness": 4.7,
+        "accuracy": 3.6
+      }
+    }
+  },
+  "timestamp": "2026-01-13T07:44:55.792545"
+}
