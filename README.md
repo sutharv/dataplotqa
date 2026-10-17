@@ -266,7 +266,7 @@ If you use DataPlotQA in your research, please cite:
 ```
 Suthar et al. (2025). DataPlotQA: A Multimodal Agent for Interpreting
 and Explaining Data Visualizations from Academic Papers. 
-Department of Computer Science, Your University.
+Department of Computer Science, Vistula University.
 ```
 
 ## 📄 License
